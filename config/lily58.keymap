@@ -46,8 +46,6 @@
 &kp CARET   &trans        &trans        &trans        &trans        &trans        &trans    &trans     &trans      &trans             &trans        &trans            &kp PIPE        &trans
                                         &trans        &trans        &trans        &trans    &kp SPACE  &trans      &trans             &trans
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         raise_layer {
