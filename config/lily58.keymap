@@ -64,8 +64,6 @@
 &trans     &trans    &trans       &trans         &trans        &trans  &trans       &trans     &trans        &trans    &trans  &trans     &trans  &trans
                                   &trans         &mo 3         &to 0   &kp ENTER    &kp SPACE  &mo 3         &trans    &trans
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         middle {
